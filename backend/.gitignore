@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# .env dosyası (gizli bilgiler içerebilir)
+.env
+
+# log dosyaları
+logs/
+*.log
+
+# işletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# VSCode ya da benzeri editör ayar dosyaları
+.vscode/
+
+# MacOS ve diğer sistem dosyaları
+*.swp
+*.swo
